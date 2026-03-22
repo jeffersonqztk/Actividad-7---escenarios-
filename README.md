@@ -43,13 +43,19 @@ Jefferson me acaba de avisar que se quedó sin energía eléctrica. Entonces inf
 
 ## Conclusiones
 El equipo logró adaptar su estructura de trabajo ante una contingencia técnica. La comunicación mantuvo la netiqueta profesional y se cumplieron todos los objetivos de la tarea dentro del tiempo estipulado.
-## Presentación final <br>
+
+### Presentación final
 *Organizacion del equipo*
 El grupo decidió una organización de ownership de documentos en la cual cada uno de los integrantes tienen actividades a su responsabilidad que luego se unirán, además de siempre tener una asignación de roles y control de tiempo. El grupo cuenta además con un sistema de fallback en caso de problemas técnicos, demostrando una gran organización por parte del equipo
 para evitar el atraso en la entrega del sistema dejando todo claro y establecido en las wikis del proyecto para poner al tanto a todos los del grupo.<br>
+
 *Gestión de la comunicación*
 La comunicación entre los miembros del equipo siempre fue de una manera clara, generando una retroalimentación para verificar la información por medio del moderador, al tener una comunicación clara y fluida por parte de todos los integrantes permite que no hayan confusiones en la delegación de tareas. La comunicación se mantuvo totalmente virtual por medio de un chat grupal<br>
+
 *Dificultades enfrentadas*
 Durante la organización del proyecto, uno de los miembros del equipo sufrió una perdida de energía, esta situación genero una confusión entre los miembros del grupo ya que solo se observaba un estado offline, lo que atrasaba la realización del proyecto además de tener que generar alternativas para avanzar con dicho problema.
 El factor del tiempo fue una situación debido que se tenía un tiempo bastante limitado por lo que pequeños imprevistos generaban posibles atrasos y estres lo que podrian afectar en la calidad del proyecto.<br>
-*estrategias*
+
+*Estrategias*
+El equipo aplicó un mecanismo de fallback, donde otro miembro asumió las tareas del integrante desconectado para mantener el progreso. Asimismo, la asignación clara de roles y una comunicación organizada permitieron redistribuir responsabilidades rápidamente. Gracias a esto, el equipo logró adaptarse a la situación y cumplir con los objetivos en el tiempo establecido.<br>
+
